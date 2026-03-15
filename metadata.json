@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "A professional tool for students and job seekers to analyze resumes against ATS filters using AI.",
+  "requestFramePermissions": []
+}
